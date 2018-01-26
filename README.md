@@ -1,1 +1,1 @@
-# Contest_problems
+# Algorithms
